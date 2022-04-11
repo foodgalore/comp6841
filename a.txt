@@ -1,0 +1,50 @@
+'h' Windows PowerShell
+'o' Windows PowerShell
+'w' Windows PowerShell
+'(space)' Windows PowerShell
+'a' Windows PowerShell
+'r' Windows PowerShell
+'e' Windows PowerShell
+'(space)' Windows PowerShell
+'y' Windows PowerShell
+'o' Windows PowerShell
+'u' Windows PowerShell
+'(alt_l)' Windows PowerShell
+'(tab)' Windows PowerShell
+'(tab)' Task Switching
+'(tab)' Task Switching
+'(ctrl_l)' Python String Concatenation - Google Chrome
+'(copy)' Python String Concatenation - Google Chrome
+'(ctrl_l)' New Tab - Google Chrome
+'(pasted-https://www.w3schools.com/python/gloss_python_string_concatenation.asp)' New Tab - Google Chrome
+'h' New Tab - Google Chrome
+'m' New Tab - Google Chrome
+'m' New Tab - Google Chrome
+'(space)' New Tab - Google Chrome
+'h' New Tab - Google Chrome
+'t' New Tab - Google Chrome
+'(space)' New Tab - Google Chrome
+'(space)' New Tab - Google Chrome
+'i' New Tab - Google Chrome
+'(space)' New Tab - Google Chrome
+'t' New Tab - Google Chrome
+'h' New Tab - Google Chrome
+'i' New Tab - Google Chrome
+'n' New Tab - Google Chrome
+'k' New Tab - Google Chrome
+'a' Remove Substring From String in Python | Delft Stack - Google Chrome
+'s' Remove Substring From String in Python | Delft Stack - Google Chrome
+'d' Remove Substring From String in Python | Delft Stack - Google Chrome
+'f' Remove Substring From String in Python | Delft Stack - Google Chrome
+'f' How to open file using try except in python? - Stack Overflow - Google Chrome
+'d' How to open file using try except in python? - Stack Overflow - Google Chrome
+'c' How to open file using try except in python? - Stack Overflow - Google Chrome
+'(space)' How to open file using try except in python? - Stack Overflow - Google Chrome
+'(space)' How to open file using try except in python? - Stack Overflow - Google Chrome
+'(space)' How to open file using try except in python? - Stack Overflow - Google Chrome
+'(space)' How to open file using try except in python? - Stack Overflow - Google Chrome
+'a' How to replace the last occurence of a character in a string in Python - Google Chrome
+'s' How to replace the last occurence of a character in a string in Python - Google Chrome
+'d' How to replace the last occurence of a character in a string in Python - Google Chrome
+'f' How to replace the last occurence of a character in a string in Python - Google Chrome
+'(space)' How to replace the last occurence of a character in a string in Python - Google Chrome
